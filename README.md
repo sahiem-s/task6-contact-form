@@ -1,1 +1,2 @@
 # task6-contact-form
+In this task, I created a Contact Form webpage using HTML, CSS, and JavaScript. The form includes fields for Name, Email, and Message, and I added client-side validation to check all inputs before submitting. I used regex to validate the email format, displayed error messages under each field when inputs were invalid, and prevented form submission until everything was correct. When the form is valid, a success message appears. This helped me learn how JavaScript handles form validation, user feedback, and input checking.
